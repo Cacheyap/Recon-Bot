@@ -13,7 +13,7 @@ A lightweight recon automation bot for bug bounty and daily scanning, built in P
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reconbot.git
+git clone https://github.com/cacheyap/reconbot.git
 cd reconbot
 chmod +x install.sh
 ./install.sh
